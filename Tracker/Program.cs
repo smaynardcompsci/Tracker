@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, C# Academy!");
+        Console.WriteLine("Hello, C# Academy! One more modification.");
     }
 }
